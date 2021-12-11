@@ -1,0 +1,7 @@
+name: WolfAPI
+prefix: WolfAPI
+description: API for plugins
+version: 0.15.2
+main: pl.oneguardstudio.wolfapi.WolfAPI
+authors:
+    - GempXPlay
